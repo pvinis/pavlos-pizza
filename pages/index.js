@@ -9,6 +9,7 @@ export default function Home() {
 	  </Head>
 
 	  <p>Pay your respects by <a href="mailto:ilove@pavlos.pizza?subject=rip kebec&body=F">emailing me an F</a>.</p>
+	  <p>Or contribute <a href="https://github.com/pvinis/pavlos-pizza">here</a>.</p>
 
 		<video autoPlay muted loop>
 		<source src="/bye-kebec.mp4" type="video/mp4" />
